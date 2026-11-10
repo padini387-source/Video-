@@ -1,0 +1,5 @@
+projects/*/source/
+projects/*/out/
+*.mp4
+*.mov
+node_modules/
