@@ -1,5 +1,16 @@
-projects/*/source/
-projects/*/out/
+# Видео, музыка и картинки остаются только на компьютере
+projects/*/
+music/*
+references/*
+!references/*.md
+!**/.gitkeep
 *.mp4
 *.mov
+*.MOV
+*.mp3
+*.wav
+
+# Служебное
 node_modules/
+.venv/
+.env
